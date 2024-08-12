@@ -582,9 +582,6 @@ a:focus {
   display: none;
 }
 
-.info_section .footer_contact .box .img-box:hover .img-1 {
-  display: none;
-}
 
 .info_section .footer_contact .box .img-box:hover .img-2 {
   display: inline;

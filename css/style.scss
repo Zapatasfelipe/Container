@@ -555,21 +555,6 @@ a:focus {
             padding: 35px 20px 0 20px;
 
 
-            .img-box {
-                .img-2 {
-                    display: none;
-                }
-
-                &:hover {
-                    .img-1 {
-                        display: none;
-                    }
-
-                    .img-2 {
-                        display: inline;
-                    }
-                }
-            }
         }
     }
 }
