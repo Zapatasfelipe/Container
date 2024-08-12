@@ -607,5 +607,20 @@ a:focus {
   color: #ffffff;
 }
 
+.carrusel-img {
+  width: 100%; /* Ajusta el ancho según lo necesites */
+  max-height: 300px; /* Fija una altura máxima */
+  object-fit: cover; /* Ajusta la imagen para que llene el espacio sin deformarse */
+  margin: 0 auto; /* Centra la imagen dentro del contenedor */
+}
+
+.carrusel-item {
+  width: 100%; /* Ajusta el ancho según lo necesites */
+  max-height: 300px; /* Fija una altura máxima */
+  object-fit: cover; /* Ajusta la imagen para que llene el espacio sin deformarse */
+  margin: 0 auto; /* Centra la imagen dentro del contenedor */
+}
+
+
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
